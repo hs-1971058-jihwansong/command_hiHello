@@ -3,3 +3,5 @@ git push origin --all
 this is local git eddited
 already eddited in git_hub
 edditing success
+
+git pull last practice
